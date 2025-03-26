@@ -4,7 +4,7 @@ date: 2025-03-26
 categories: devops aws gitlab
 ---
 
-# AWS GitLab Environments: BMX Grit Meets MTB Precision
+# RAD Pipelines
 
 ![80s BMX riders sending it](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BMX_riders.jpg/1024px-BMX_riders.jpg)
 

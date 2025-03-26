@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Integral Enablement | Noted(!) by Robert Bogan"
+title: "Integral Enablement | by Robert Bogan"
 masthead_title: "Integral Enablement"
 title_separator: "|"
 name: "Robert Bogan"

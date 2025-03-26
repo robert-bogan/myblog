@@ -1,10 +1,10 @@
 ---
 title: "AWS GitLab Environments: BMX Grit Meets MTB Precision"
 date: 2025-03-26
-categories: devops aws gitlab
+categories: devops aws gitlab mtb bmx
 ---
 
-# AWS GitLab Environments: BMX Grit Meets MTB Precision
+Piped lines - The Preparation, Commitment & Execution mindset
 
 ![80s BMX riders sending it](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BMX_riders.jpg/1024px-BMX_riders.jpg)
 
